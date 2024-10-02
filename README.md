@@ -1,1 +1,2 @@
-<h4>Por serem scripts desenvolvidos e comercializados para terceiros, apenas iamgens estão disponibilizadas neste resositorio, em caso de duvidas sobre os codigos, entre em contato</h4>
+<h4>REPOSITÓRIO CV</h4>
+<p>Por serem scripts desenvolvidos e comercializados para terceiros, apenas imagens estão disponibilizadas neste repositório. Dúvidas sobre os códigos, entre em contato.</p>
