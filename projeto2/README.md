@@ -1,4 +1,4 @@
-<h4>ntegração entre plataforma e aplicativo de envio de mensagens e dashboard</h4>
+<h4>Integração entre plataforma e aplicativo de envio de mensagens e dashboard</h4>
 
 
 <h4>Telas para inserção de mensagens</h4>

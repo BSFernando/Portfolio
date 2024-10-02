@@ -1,4 +1,4 @@
-<h4>Automatação na criação de mapas em software de georreferenciamento</h4>
+<h4>Automação na criação de mapas em software de georreferenciamento</h4>
 
 <img src="https://github.com/BSFernando/projetos/blob/main/imgs/mapas/QGIS.jpg" alt="alt text" width="600px">
 
