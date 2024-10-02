@@ -5,6 +5,10 @@
 
 <img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/modelo_unet.jpg" alt="alt text" width="400px">
 
+<h4>Imagens deslizamento para treinamento</h4>
+
+<img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/treinamento.png" alt="alt text" width="600px">
+
 <h4>Grafico acuracia</h4>
 
 <img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/accuracy.png" alt="alt text" width="400px">
@@ -15,7 +19,6 @@
 
 <h4>Imagens deslizamento prevista após treinamento</h4>
 png
-<img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/cnn.png" alt="alt text" width="600px">
 
-<img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/cnn2.png" alt="alt text" width="300px">
+<img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/saida.png" alt="alt text" width="300px">
 
