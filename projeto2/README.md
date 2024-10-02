@@ -9,9 +9,9 @@
 
 <h4>Tela dashboard</h4>
 
-<img src="https://github.com/BSFernando/projetos/blob/main/imgs/mensagens/tela_dashboard.jpg.png" alt="alt text" width="600px">
+<img src="https://github.com/BSFernando/projetos/blob/main/imgs/mensagens/tela_dashboard.jpg" alt="alt text" width="600px">
 
 
 <h4>Mensagem final enviada via API</h4>
 
-<img src="https://github.com/BSFernando/projetos/blob/main/imgs/mensagens/mensagem.jpg" alt="alt text" width="600px">
+<img src="https://github.com/BSFernando/projetos/blob/main/imgs/mensagens/mensagem.jpg" alt="alt text" width="300px">
