@@ -4,7 +4,7 @@
 
 <h4>Tabela de atributos</h4>
 
-<img src="https://github.com/BSFernando/projetos/blob/main/imgs/mapas/dataframe.jpg" alt="alt text" width="400px">
+<img src="https://github.com/BSFernando/projetos/blob/main/imgs/mapas/dataframe.jpg" alt="alt text" width="600px">
 
 <h4>Mapas</h4>
 
