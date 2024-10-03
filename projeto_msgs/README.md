@@ -20,4 +20,4 @@ TECNOLOGIAS
 
 <h4>Mensagem final enviada via API</h4>
 
-<img src="https://github.com/BSFernando/PROJETOS_CV/blob/main/imgs/mensagens/mensagem.jpg" alt="alt text" width="300px">
+<img src="https://github.com/BSFernando/PROJETOS_CV/blob/main/imgs/mensagens/mensagem.png" alt="alt text" width="300px">
