@@ -15,7 +15,6 @@
 
 
 <h4>Imagens deslizamento prevista após treinamento</h4>
-png
 
 <img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/saida.png" alt="alt text" width="600px">
 
