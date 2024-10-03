@@ -9,13 +9,10 @@
 
 <img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/treinamento.png" alt="alt text" width="600px">
 
-<h4>Grafico acuracia</h4>
+<h4>Grafico perda e acuracia treinamento</h4>
 
-<img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/accuracy.png" alt="alt text" width="600px">
+<img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/graficos.png" alt="alt text" width="600px">
 
-<h4>Grafico perda treinamento</h4>
-
-<img src="https://github.com/BSFernando/projetos/blob/main/imgs/satelite/loss.png" alt="alt text" width="600px">
 
 <h4>Imagens deslizamento prevista após treinamento</h4>
 png
