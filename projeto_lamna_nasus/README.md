@@ -18,6 +18,3 @@
 <h4>Cross correlation between SST anomaly vs North Atlantic oscillation.</h4>
 
 <img src="https://github.com/BSFernando/PROJETOS_CV/blob/main/projeto_lamna_nasus/img/anom_nao.png" alt="alt text" width="600px">
-
-
-

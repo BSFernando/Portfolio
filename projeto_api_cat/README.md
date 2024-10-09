@@ -1,6 +1,5 @@
 # API_cat CRUD
 
-A API disponibilizidade no link "https://api-cat.herokuapp.com/"
 
 ## Métodos
 Requisições para a API devem seguir os padrões:
