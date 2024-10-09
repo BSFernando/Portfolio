@@ -1,5 +1,10 @@
 <h4>Spatial position of shark species in the North Atlantic Ocean (pink dots) near the centroid of the clusters (symbol + black). SST values and SST anomaly.</h4>
 
+## TECNOLOGIAS
+* Python
+* QGIS
+* PostgreSQL
+
 <img src="https://github.com/BSFernando/PROJETOS_CV/blob/main/projeto_lamna_nasus/img/tsm_centroide_pontos_6mapas.png" alt="alt text" width="600px">
 <img src="https://github.com/BSFernando/PROJETOS_CV/blob/main/projeto_lamna_nasus/img/anomalia_pontos_centroide_6mapas.png" alt="alt text" width="600px">
 

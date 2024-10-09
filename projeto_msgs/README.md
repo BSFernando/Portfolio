@@ -1,7 +1,6 @@
 <h4>Integração entre plataforma e aplicativo de envio de mensagens e dashboard</h4>
 
-TECNOLOGIAS
-
+## TECNOLOGIAS
 * Python
 * HTML, CSS e Javascript
 * MongoDB Atlas

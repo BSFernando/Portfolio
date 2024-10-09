@@ -1,5 +1,9 @@
 # API_cat CRUD
 
+## TECNOLOGIAS
+* Python
+* MySQL
+* RESTful API
 
 ## Métodos
 Requisições para a API devem seguir os padrões:

@@ -1,11 +1,9 @@
 <h4>Automação na criação de mapas em software de georreferenciamento</h4>
 
-TECNOLOGIAS
-
+## TECNOLOGIAS
 * QGIS 
 * Python
 * Inkscape
-* Arquivos shapefile (.shp)
 
 <h4>Ambiente de desenvolvimento PyQGIS</h4>
 

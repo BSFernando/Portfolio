@@ -1,8 +1,7 @@
 <h4>Desenvolvimento de modelo CNN para detectar deslizamentos de terra em imagens de satélite com três bandas espectrais</h4>
 
-TECNOLOGIAS
-
-* Colaboratory (https://colab.research.google.com/notebooks)
+## TECNOLOGIAS
+* Colaboratory
 * QGIS 
 * Python
 * Rede neural U-Net
