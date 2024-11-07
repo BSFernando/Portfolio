@@ -6,4 +6,5 @@ TECNOLOGIAS
 * Selenium
 * Javascript
 
-<img src="https://github.com/BSFernando/Portfolio/blob/main/imgs/bot_whatsapp/video.mp4" alt="alt text" width="600px">
+<img src="https://github.com/BSFernando/Portfolio/blob/main/imgs/bot_whatsapp/img_wpp.png" alt="alt text" width="600px" href="https://drive.google.com/file/d/12KqxZhC-b36es6MlsMpAYEyy7aWEqeb8/view?usp=drive_link">
+VIDEO BOT WHATSAPP https://drive.google.com/file/d/12KqxZhC-b36es6MlsMpAYEyy7aWEqeb8/view?usp=drive_link
