@@ -32,3 +32,9 @@ TECNOLOGIAS
 * Python
 * Rede neural U-Net
 * Inkscape
+
+## [Projeto envio/encaminhamento msgs Whatsapp](https://github.com/BSFernando/Portfolio/tree/main/projeto_bot_whatsapp)
+TECNOLOGIAS
+* Python
+* Selenium
+* Javascript
