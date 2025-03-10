@@ -1,8 +1,8 @@
 <h4>Automação na criação de mapas em software de georreferenciamento</h4>
 
 ## TECNOLOGIAS
-* QGIS 
-* Python
+* QGIS 3.16.5 with Grass 7.8.5
+* Python 3.7
 * Inkscape
 
 <h4>Ambiente de desenvolvimento PyQGIS</h4>
