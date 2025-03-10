@@ -7,7 +7,7 @@
 
 <h4>Ambiente de desenvolvimento PyQGIS</h4>
 
-<img src="https://github.com/BSFernando/Portfolio/blob/main/imgs/mapas/QGIS.jpg" alt="alt text" width="600px">
+<img src="https://github.com/BSFernando/Portfolio/blob/main/imgs/mapas/QGIS.png" alt="alt text" width="600px">
 
 <h4>Tabela de atributos</h4>
 
