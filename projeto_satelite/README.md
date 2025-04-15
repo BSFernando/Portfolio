@@ -7,10 +7,6 @@
 * Rede neural U-Net
 * Inkscape
 
-<h4>Modelo U-NET</h4>
-
-<img src="https://github.com/BSFernando/Portfolio/blob/main/imgs/satelite/modelo_unet.jpg" alt="alt text" width="600px">
-
 <h4>Imagens e máscaras para treinamento da rede neural</h4>
 
 <img src="https://github.com/BSFernando/Portfolio/blob/main/imgs/satelite/treinamento.png" alt="alt text" width="600px">
