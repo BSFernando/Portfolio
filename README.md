@@ -20,30 +20,3 @@ TECNOLOGIAS
 * Python
 * QGIS
 * PostgreSQL
-
-## [Projeto automação mapas](https://github.com/BSFernando/Portfolio/tree/main/projeto_mapa)
-TECNOLOGIAS
-* QGIS 
-* Python
-* Inkscape
-
-## [Projeto envio mensagens](https://github.com/BSFernando/Portfolio/tree/main/projeto_msgs)
-TECNOLOGIAS
-* Python
-* HTML, CSS e Javascript
-* MongoDB Atlas
-* RESTful API
-
-## [Projeto deslizamento de terra U-NET](https://github.com/BSFernando/Portfolio/tree/main/projeto_satelite)
-TECNOLOGIAS
-* Colaboratory
-* QGIS 
-* Python
-* Rede neural U-Net
-* Inkscape
-
-## [Projeto envio/encaminhamento msgs Whatsapp](https://github.com/BSFernando/Portfolio/tree/main/projeto_bot_whatsapp)
-TECNOLOGIAS
-* Python
-* Selenium
-* Javascript
