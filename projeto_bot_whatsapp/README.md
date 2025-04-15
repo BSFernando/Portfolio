@@ -1,7 +1,6 @@
 <h4>Bot para envio e encaminhamento de mensagens via WHATSAPP</h4>
 
 ## TECNOLOGIAS
-TECNOLOGIAS
 * Python
 * Selenium
 * Javascript
